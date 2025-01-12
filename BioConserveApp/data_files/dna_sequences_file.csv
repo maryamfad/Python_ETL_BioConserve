@@ -1,0 +1,11 @@
+sequence_id,species_id,sequence,sequence_type,barcode_region,quality_score,uploaded_date
+11,1,ATCGGCTAAGCTA,gene,region_1,0.87,2024-02-15
+12,1,GCTTAGCTAAGC,intron,region_3,,2024-08-10
+13,2,,genome,,0.75,2024-06-05
+14,3,ATCGTAGCTAGCTTAG,exon,,0.92,2023-11-20
+15,2,,gene,region_2,0.81,
+16,4,TAGCTAGCTAAGC,intron,region_1,,2024-09-12
+17,5,GCTTAGCTAGC,,,0.78,2024-01-03
+18,1,ATCGGCTTAGCT,,region_4,0.85,
+19,3,TAGCTAGCTAAGC,genome,,0.90,2023-12-15
+20,2,ATCGGCTAAGCTA,exon,region_2,0.88,2024-03-19
