@@ -1,0 +1,11 @@
+,species_id,scientific_name,common_name,kingdom,phylum,class,order,family,genus,description
+0,1,Panthera leo,Lion,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Large carnivorous feline native to Africa and India; known for its mane (males). Classified as vulnerable by the IUCN.
+1,2,Apis mellifera,Honey Bee,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis,"Essential pollinator species, widely domesticated for honey production and crop pollination."
+2,3,Ginkgo biloba,Ginkgo,Plantae,Ginkgophyta,Ginkgoopsida,Ginkgoales,Ginkgoaceae,Ginkgo,"Ancient tree species often referred to as a ""living fossil""; known for its unique fan-shaped leaves."
+3,4,Quercus robur,English Oak,Plantae,Tracheophyta,Magnoliopsida,Fagales,Fagaceae,Quercus,Deciduous tree native to Europe; provides habitat for numerous species and used extensively in woodworking.
+4,5,Eschrichtius robustus,Gray Whale,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,Large baleen whale known for long migrations between feeding and breeding grounds.
+5,6,Salmonella enterica,Salmonella,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Salmonella,"Pathogenic bacterium that causes foodborne illness; associated with undercooked meat, eggs, and contaminated water."
+6,7,Ailuropoda melanoleuca,Giant Panda,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ailuropoda,"Native to China, known for its black and white fur and diet primarily consisting of bamboo; classified as vulnerable."
+7,8,Tardigrada sp.,Tardigrade,Animalia,Tardigrada,Eutardigrada,Parachela,Tardigradidae,Tardigrada,"Microscopic ""water bears"" known for their ability to survive extreme conditions such as radiation, desiccation, and the vacuum of space."
+8,9,Plasmodium falciparum,Malaria Parasite,Protista,Apicomplexa,Aconoidasida,Haemosporida,Plasmodiidae,Plasmodium,Parasite responsible for the most severe form of malaria in humans; transmitted through bites from infected Anopheles mosquitoes.
+9,10,Chelonia mydas,Green Sea Turtle,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,Large sea turtle species primarily found in tropical and subtropical waters; classified as endangered due to habitat loss and poaching.

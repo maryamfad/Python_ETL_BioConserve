@@ -1,0 +1,9 @@
+data:
+  csv_path: "data_files/dna_sequences_file.csv"
+
+database:
+  host: "localhost"
+  port: 3306
+  user: "maryamfadaee"
+  password: "mar@mysql80"
+  dbname: "etl_process"
